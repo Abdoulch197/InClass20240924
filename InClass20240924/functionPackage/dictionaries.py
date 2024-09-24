@@ -1,4 +1,5 @@
 # dictionaries.py
+# This was really fun and I will treasure this time together with my peers.
 
 from os import remove
 
